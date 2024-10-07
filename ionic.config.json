@@ -1,0 +1,7 @@
+{
+  "name": "demo-maps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
